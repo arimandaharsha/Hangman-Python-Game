@@ -281,4 +281,3 @@ word_list = [
 'zombie',
 ]
 
-print(word_list)
